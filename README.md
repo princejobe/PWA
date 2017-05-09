@@ -1,1 +1,0 @@
-# Simple Smart Mall PWA 
